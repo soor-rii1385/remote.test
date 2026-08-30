@@ -2,5 +2,10 @@ Remote repository demo project
 Initial version
 version 1.1
 This line was added remotely.
+<<<<<<< HEAD
 this line was added for fetch.
 
+=======
+this line was added.
+for fetchhhh.
+>>>>>>> origin
